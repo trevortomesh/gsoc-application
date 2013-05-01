@@ -1,0 +1,9 @@
+This is the sourcecode for my 2013 google summer of code 
+application. 
+
+Instructions Provided -
+==================================================================
+Please create a statically-linked ARM Linux "hello world" style executable that prints out your name and the date. Add your binary to a fork of the https://github.com/jadonk/gsoc-application git tree. Provide here any instructions required for invoking it. You are welcome to test it on an ARM QEMU environment. Please feel free to visit our IRC channel, #beagle on irc.freenode.net, and ask for help.
+==================================================================
+
+
